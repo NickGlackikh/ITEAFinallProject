@@ -20,4 +20,6 @@
     <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="https://raw.githubusercontent.com/ory/keto/master/.schema/config.schema.json" /></VisualStudio></ProjectExtensions>
+
 </Project>
