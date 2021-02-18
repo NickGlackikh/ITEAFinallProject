@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cw61PNRerW+MwBJL7aL/733Vm6miMjAjeFlVHQRkREyK5MWEGClW2IzzoPVzklEw4R532iyss2Ca4HSt9yfGwg==",
+  "dgSpecHash": "/xi23dVybIiz2BDdb+3+jHKIdyT5kW47RMC/Otx5rSShbkfnFoiQ2DgU8N8MvhoelPONnip3E6GTnWByMTKMdg==",
   "success": true,
-  "projectFilePath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
+  "projectFilePath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
   "expectedPackageFiles": [
     "C:\\Work\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Work\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj": {}
+    "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj": {}
   },
   "projects": {
-    "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj": {
+    "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
+        "projectUniqueName": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
         "projectName": "ITEAProject",
-        "projectPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
+        "projectPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
         "packagesPath": "C:\\Work\\packages",
-        "outputPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\obj\\",
+        "outputPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj": {
+    "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj",
+        "projectUniqueName": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj",
         "projectName": "ITEAProjTests",
-        "projectPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj",
+        "projectPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj",
         "packagesPath": "C:\\Work\\packages",
-        "outputPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProjTests\\obj\\",
+        "outputPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProjTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -131,8 +131,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj": {
-                "projectPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj"
+              "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj": {
+                "projectPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj"
               }
             }
           }

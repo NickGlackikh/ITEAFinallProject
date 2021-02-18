@@ -7845,11 +7845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
+      "projectUniqueName": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
       "projectName": "ITEAProject",
-      "projectPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
+      "projectPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\ITEAProject.csproj",
       "packagesPath": "C:\\Work\\packages",
-      "outputPath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProject\\obj\\",
+      "outputPath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

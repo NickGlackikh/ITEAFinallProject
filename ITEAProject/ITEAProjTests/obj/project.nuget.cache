@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pi6A0NFFEq7wWSf/UNZ8ZVWHHvwQLhBkVhBgX0JubAmUBedNadTKOz4Bq4ekVSzMNIWRzHdgmTYEitbMM3z36w==",
+  "dgSpecHash": "j/P0e2xkrom76uzn27s9fDuobN+x/r3gSKWa9xx8sRyUCNf6Qu1Y8tW7ephe2XV3cwbo8+F3F8ALh+MbUYRmkA==",
   "success": true,
-  "projectFilePath": "C:\\work\\ITEA\\HomeWork\\itea_HW_unified\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj",
+  "projectFilePath": "C:\\work\\ITEA\\FinallProject\\ITEAProject\\ITEAProjTests\\ITEAProjTests.csproj",
   "expectedPackageFiles": [
     "C:\\Work\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Work\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
