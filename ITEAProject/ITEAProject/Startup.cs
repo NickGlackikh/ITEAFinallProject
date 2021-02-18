@@ -46,7 +46,7 @@ namespace ITEAProject
                 options.Password.RequireNonAlphanumeric = false;
             });
 
-            services.AddDbContext<IteaProjectDbContext>(options => options.UseSqlServer(_configuration.GetConnectionString("DbConnectionString")));
+            services.AddDbContext<IteaProjectDbContext>(options => options.UseSqlServer(_configuration.GetConnectionString("AzureConnectionString")));
             services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<IteaProjectDbContext>();
             services.AddScoped<IMessageSender, EmailMessageSender>();
             services.AddScoped<IBranchRepository, BranchRepository>();
